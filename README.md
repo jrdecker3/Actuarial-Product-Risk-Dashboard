@@ -31,3 +31,4 @@ Runs maximum-likelihood calculations to fit and rank 35 actuarial distributions,
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/jrdecker3/Actuarial-Risk-Dashboard.git](https://github.com/jrdecker3/Actuarial-Risk-Dashboard.git)
+   
